@@ -10,6 +10,7 @@ namespace ConsoleApp3
             //Check if this will be pushed in new Git hub repository.
 
             //first commit to github repo
+            //3rd commit and push
         }
     }
 }
