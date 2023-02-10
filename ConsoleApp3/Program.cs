@@ -17,8 +17,7 @@ namespace ConsoleApp3
             //commit naidine
             //commit naidine again 
             //commit 5
-            // commit geloqt, d ko magawa kagabi awt ngayon pede na
-            // commit geloqt(1), potato pc next month pa makakabili
+            // commit geloqtp
 
         }
     }
