@@ -19,7 +19,6 @@ namespace ConsoleApp3
             //commit 5
             // commit geloqtp
             //commit please work -Adrian
-            //Development
         }
     }
 }
